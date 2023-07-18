@@ -1,4 +1,4 @@
-<div align='center' width="100px" height = "100px" ><img src='https://gymate-main.vercel.app/static/media/nav-logo.e525e5ee2d84b679064d.png'/></div>
+<div align='center' width="50px" height = "50px" ><img src='https://gymate-main.vercel.app/static/media/nav-logo.e525e5ee2d84b679064d.png'/></div>
 
 <h2>About the project</h2>
 
