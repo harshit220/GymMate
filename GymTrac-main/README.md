@@ -16,7 +16,7 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213878710-5662b56b-fc14-43cc-b038-70c21abb2e5f.png'/>
+<img src='./public/SS/one.png'/>
 
 </div>
 
